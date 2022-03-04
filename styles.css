@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital@1&display=swap');
+
+body {
+    background-color: #fff;
+    color: #000;
+    font-style: italic;
+    font-size: 17px;
+    font-weight: 600;
+    font-family: 'Cabin', sans-serif;
+
+}
+
+a {
+    color: palevioletred;
+    text-decoration: none;
+}
+
+h1 {
+    color: coral;
+}
+
+.fotka {
+    width: 200px;
+    border-radius: 2%;
+    box-shadow: 14px 4px 1px grey;
+}
+
+.info p {
+    color: burlywood;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    text-transform: capitalize;
+
+}
+
+.contain {
+    max-width: 700px;
+    margin: auto;
+}
+
+.social {
+    background: white;
+    font-size: 15px;
+    width: 400px;
+    padding: 3px;
+
+
+}
