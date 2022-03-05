@@ -1,0 +1,35 @@
+body{
+
+
+}
+.Differentflags {
+    background-color: white;
+    font-family: "sans-serif";
+
+}
+.box-model {
+    background-color: black;
+    float: left;
+}
+.russia .white {
+    background-color: white;
+    height: 33.33%;
+
+}
+.russia .red {
+    background-color: red;
+    height: 33.33%;
+}
+.russia .blue {
+    background-color: blue;
+    height: 33.33%;
+}
+.russia {
+    height: 300px;
+    width: 600px;
+    border: 1px solid black;
+}
+
+.Israel {
+
+}
